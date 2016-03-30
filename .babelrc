@@ -1,4 +1,5 @@
 {
+    "presets": ["babel-preset-es2015"],
  "plugins": [
     "babel-plugin-transform-es2015-destructuring",
     "babel-plugin-transform-es2015-modules-commonjs"
